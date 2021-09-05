@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+That's totally my scene
